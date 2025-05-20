@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ELYXAN
-- 👀 I’m interested in Python and Javascript Programming
-- 🌱 I’m currently learning Javascript
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Was top 500 in Overwatch 1 😜
+- 👀 Python and C 
+- 🪄 Pentester
 
 <!---
 ELYXAN/ELYXAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
